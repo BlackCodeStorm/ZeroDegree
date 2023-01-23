@@ -1,1 +1,0 @@
-mlist = ["zerodos","zerospoof"]
