@@ -1,5 +1,0 @@
-Global variables are capitalized, such as ROOT_PATH.
-Local variables are lowercase, such as name.
-Prefixes and variable names are separated by underscores, as in tmp_max.
-Function names are verb noun structures, verb lowercase, and noun initials are capitalized, such as setRootPath().
-The member parameters of the class are distinguished by camel nomenclature, such as self. RootPath。
